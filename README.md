@@ -1,2 +1,2 @@
 # reactdemo
-- demo app ahoj
+- demo app
